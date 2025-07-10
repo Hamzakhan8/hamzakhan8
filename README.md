@@ -1,7 +1,7 @@
 <!-- GitHub README | Hamza Khan -->
 
 <h1 align="center">👋 Hi, I'm Hamza Khan</h1>
-<h3 align="center">AI-Powered Full Stack Web Developer | Laravel & React Specialist</h3>
+<h3 align="center"> Full Stack Web Developer | Laravel & React Specialist</h3>
 
 <p align="center">
   🌍 Based in Abu Dhabi, UAE | 📬 hamzakhan.soft.dev@gmail.com  
