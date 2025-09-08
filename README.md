@@ -15,7 +15,7 @@
 
 ### 💡 About Me
 
-I'm a passionate **Full Stack Web Developer** with over **4 years of experience** building secure, scalable, and AI-powered web platforms.
+I'm a passionate **Full Stack Web Developer** with over **5+ years of experience** building secure, scalable, and AI-powered web platforms.
 
 Currently working at **Al Ain University**, I specialize in:
 - 🚀 **AI-integrated web apps** using OpenAI & Gemini APIs  
